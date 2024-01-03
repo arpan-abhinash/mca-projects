@@ -1,2 +1,2 @@
 # mca-projects
-MCA Projects
+University Projects (MCA)
